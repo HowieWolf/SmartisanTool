@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SmartisanTool</string>
+    <string name="app_pronouncement1">特别声明</string>
+    <string name="app_pronouncement2">1 应用中部分素材来自网络，如有侵权请告知。</string>
+    <string name="app_pronouncement3">2 应用有bug如下，如发现其他bug，欢迎并感谢您告知。</string>
+    <string name="app_pronouncement4">*在QQ和TIM中的聊天界面，轻触返回会直接退到桌面。</string>
+    <string name="app_pronouncement5">*如果应用在后台被杀掉，可能导致应用无法使用。故请允许后台常驻。</string>
+    <string name="app_pronouncement6">3 愿意和您一起做点好玩的事！</string>
+    <string name="app_pronouncement7">新浪微博：@GetNextMe</string>
+    <string name="app_pronouncement8">论坛ID：HowieWolf</string>
+    <string name="accessibility_service_description">双击back键显示后台需要开启此功能</string>
+
+
+    <string name="main_title">Smartisan 小工具</string>
+
+    <string name="cbk_title">双击back键</string>
+    <string name="cbk_description">该功能需要开启辅助功能，点击开关会跳转到设置界面。</string>
+    <string name="cbk_double_space_title">双击时间间隔</string>
+    <string name="cbk_double_space_description">系统识别双击是需要判断两次轻触的时间间隔。时间间隔越长,越容易触发双击,
+        同时带来的弊端是单击会有延时,显得反应迟钝。您根据自己的习惯设置一个合适的时间间隔,既能很容易双击,又让单击不显得迟钝。</string>
+
+
+</resources>

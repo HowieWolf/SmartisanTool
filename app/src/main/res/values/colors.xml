@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5F6267</color>
+    <color name="colorPrimaryDark">#5F6267</color>
+    <color name="colorAccent">#5F6267</color>
+    <color name="item_pressd">#6F93DC</color>
+    <color name="item_normal">#FAFAFA</color>
+    <color name="ripple_material_dark">#33ffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="text_color">#E9E9E9</color>
+</resources>
