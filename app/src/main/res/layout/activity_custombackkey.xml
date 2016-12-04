@@ -79,7 +79,8 @@
                 android:background="@drawable/item_bg"
                 android:max="150"
                 android:padding="10dp"
-                android:progress="80"/>
+                android:progress="80"
+                android:splitTrack="false"/>
 
             <TextView
                 android:layout_width="match_parent"
